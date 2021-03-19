@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thuyennguyenphi@saigontech.edu.vn
+- 📫 How to reach me thuyennguyenphi@gmail.com
 
 <!---
 spaceShip1501/spaceShip1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
